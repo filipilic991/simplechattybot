@@ -1,1 +1,2 @@
 # simplechattybot
+Beginner level project 
